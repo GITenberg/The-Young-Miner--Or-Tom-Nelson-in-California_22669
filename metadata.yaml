@@ -1,0 +1,39 @@
+_repo: The-Young-Miner--Or-Tom-Nelson-in-California_22669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    - Jr., Horatio Alger
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'California -- Gold discoveries -- Fiction'
+- !lcsh 'Miners -- Fiction'
+- !lcsh 'California -- History -- 19th century -- Fiction'
+- !lcsh 'California -- Gold discoveries -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PZ'
+title: The Young Miner; Or, Tom Nelson in California
+url: http://www.gutenberg.org/ebooks/22669
